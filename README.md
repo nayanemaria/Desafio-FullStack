@@ -7,11 +7,11 @@ Abaixo, temos as principais tecnologias por detrás desta aplicação:
 HTML
 CSS
 Boostrap
-JAVASCRIPT
+JavaScript
 
 ## BACKEND:
 
-LARAVEL
+Laravel
 PHP
 PostgreSQL
 
@@ -60,7 +60,7 @@ Agora, que toda a configuração inicial está realizada, inicie o servidor da A
 
 ## Executando a migração:
 
-As migrações são um tipo de controle de versão para seu banco de dados. Eles permitem que uma equipe modifique o esquema do banco de dados e se mantenha atualizado sobre o estado atual do esquema.
+As migrações são um tipo de controle de versão para seu banco de dados. Elas permitem que uma equipe modifique o esquema do banco de dados e se mantenha atualizado sobre o estado atual do esquema.
 
 Para executar a migração do projeto, use o comando:
 "php artisan migrate"
